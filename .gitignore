@@ -1,0 +1,14 @@
+# Xcode & Build outputs
+*.xcuserdatad
+xcuserdata/
+DerivedData/
+derivedData/
+/build/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# OS generated files
+.DS_Store
+Thumbs.db
